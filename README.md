@@ -205,8 +205,8 @@ The final report includes:
 
 ## Author
 
-**Hritish Mahajan**  
+**Sanjana Singh**  
 *Data Analysis | Python | SQL | Power BI | Machine Learning |*
 
-📧 Contact: hritishx@gmail.com  
-🔗 GitHub: [github.com/hritishmahajan](https://github.com/hritishmahajan)
+📧 Contact: singhsanjana931981@gmail.com  
+🔗 GitHub: [github.com/Sanjana-93](https://github.com/Sanjana-93)
